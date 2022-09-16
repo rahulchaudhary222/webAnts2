@@ -1,0 +1,47 @@
+.bottom {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIQAsAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAABAAIH/8QAGhABAQEBAQEBAAAAAAAAAAAAAAERAjFxQf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDofLUEagExYZAMKkMgGEEEigSSAIoAKQAsZrbAM0NWM0GWK3WKDcajLUBqEEGoVEBIIJJAkkCSQIEAGbGhfAZrNaooMVjpus0C1BGoBhghgGNCRA0hPpApIEkgSSAKpABSKDLLVZoM0XwigY0xG4BMBAxpmNQCkgKSBJIECASQBMtMgKzWmaDNZrVZoGNRnlqA0WSBajMMoNFkgUCCSQJIAQhQTJAAEAyzWqzQTTEb0GoWdINIECpQgaLOnQKGqUCNWrQQVooIVAFRVQAZprNoGNRgyg21GNMoNFlqAiCCIQFBAQkASAJIAWaqzaCrFa1mgJWow1KDUajMplBssaYDaZ0g0ggKCAipAgtVoIK1i9AbWbVoAaLSzQEaiQGNSpASEBhSArQgai1IBV+JAAkA6ZSBJIGazfQgf//Z");
+  display: flex;
+}
+.naam {
+  background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIQAsAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAABAAIH/8QAGhABAQEBAQEBAAAAAAAAAAAAAAERAjFxQf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDofLUEagExYZAMKkMgGEEEigSSAIoAKQAsZrbAM0NWM0GWK3WKDcajLUBqEEGoVEBIIJJAkkCSQIEAGbGhfAZrNaooMVjpus0C1BGoBhghgGNCRA0hPpApIEkgSSAKpABSKDLLVZoM0XwigY0xG4BMBAxpmNQCkgKSBJIECASQBMtMgKzWmaDNZrVZoGNRnlqA0WSBajMMoNFkgUCCSQJIAQhQTJAAEAyzWqzQTTEb0GoWdINIECpQgaLOnQKGqUCNWrQQVooIVAFRVQAZprNoGNRgyg21GNMoNFlqAiCCIQFBAQkASAJIAWaqzaCrFa1mgJWow1KDUajMplBssaYDaZ0g0ggKCAipAgtVoIK1i9AbWbVoAaLSzQEaiQGNSpASEBhSArQgai1IBV+JAAkA6ZSBJIGazfQgf//Z");
+}
+.naam h1 {
+  padding: 10px;
+  font-size: 25px;
+  margin: 30px;
+  text-align: left;
+  color: black;
+}
+.bottom h2 {
+  text-align: left;
+  margin: 30px;
+}
+.bottom p {
+  text-align: left;
+  color: black;
+  margin: 30px;
+  width: 200px;
+}
+.titled {
+  margin: 10px;
+}
+.khatam {
+  display: flex;
+  background-color: black;
+}
+.khatam h3 {
+  margin-left: 40px;
+  padding: 10px;
+}
+.terms {
+  margin-left: 10px;
+  margin-right: 15px;
+  cursor: pointer;
+  background-color: initial;
+  color: red;
+}
+.terms:hover {
+  color: white;
+}

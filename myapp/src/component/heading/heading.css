@@ -1,0 +1,28 @@
+.Title {
+  width: 100vw;
+
+  background-image: url("https://i.pinimg.com/736x/82/a0/47/82a0474442bb6189afd19ba620222507.jpg");
+  display: flex;
+}
+.Title h3 {
+  padding: 100px 20px 0px 20px;
+  color: red;
+}
+.Title h1 {
+  font-size: 40px;
+  width: 500px;
+  padding: 20px;
+  text-align: left;
+  color: black;
+}
+
+.Title p {
+  padding: 5px 20px;
+  text-align: left;
+  width: 400px;
+  color: black;
+}
+
+.picasa {
+  padding: 70px 20px 20px 20px;
+}

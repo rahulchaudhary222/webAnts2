@@ -1,0 +1,7 @@
+@media (max-width: 500px) {
+  #app1 {
+    width: 100%;
+    display: block;
+    background-color: black;
+  }
+}

@@ -1,0 +1,62 @@
+.about {
+  height: 100vh;
+  display: flex;
+  margin-top: 70px;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/001/874/132/original/abstract-geometric-white-background-free-vector.jpg");
+}
+
+.firsth {
+  background-image: url("https://media.istockphoto.com/vectors/abstract-blue-vector-background-with-stripes-can-be-used-for-cover-vector-id1270261573?k=20&m=1270261573&s=612x612&w=0&h=8KkJd1DCgwZxMyh3AYFSzfuTRphs3mLuEMYMmUpmsmQ=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 60px 10px 60px 60px;
+  padding: 60px 10px 60px 30px;
+  border-radius: 40px;
+}
+
+.firsth h1 {
+  width: 300px;
+  color: black;
+}
+.firsth h2 {
+  font-size: 35px;
+  color: white;
+}
+.firsth p {
+  font-size: 15px;
+  padding: 30px;
+  width: 300px;
+  color: white;
+}
+.seconded {
+  width: 60%;
+}
+.seconded h2 {
+  padding-left: 40px;
+  text-align: left;
+  padding-top: 60px;
+  color: red;
+  font-size: 15px;
+}
+.seconded h1 {
+  text-align: left;
+  padding-left: 40px;
+  color: black;
+}
+.long-card {
+  cursor: pointer;
+  margin: 16px;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  transition: 0.3s all;
+  box-shadow: 0 2px 5px 0 rgba(3, 6, 26, 0.15);
+
+  &:hover {
+    box-shadow: 0px 0px 40px -10px rgba(0, 0, 0, 0.5);
+    transform: scale(1.05);
+  }
+}
+.long-card h1 {
+  font-size: larger;
+}

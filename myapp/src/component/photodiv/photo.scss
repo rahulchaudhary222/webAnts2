@@ -1,0 +1,77 @@
+.saara {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 120vh;
+  background-image: url("https://cdn.create.vista.com/api/media/medium/346580072/stock-photo-smiling-girl-pointing-finger-while?token=");
+}
+.upper h3 {
+  width: 60%;
+  padding-top: 30px;
+  color: red;
+  text-align: center;
+}
+.upper h1 {
+  width: 60%;
+  padding-top: 20px;
+  text-align: center;
+  color: black;
+}
+
+.lower-card {
+  cursor: pointer;
+  justify-content: center;
+  transition: 0.3s all;
+  box-shadow: 0 2px 5px 0 rgba(3, 6, 26, 0.15);
+
+  &:hover {
+    box-shadow: 0px 0px 40px -10px rgba(0, 0, 0, 0.5);
+    transform: scale(1.05);
+  }
+  width: 45%;
+  margin: 20px 0;
+  height: 150px;
+}
+
+.wrap-card {
+  margin-top: 30px;
+  width: 60%;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+}
+.lower-card h1 {
+  color: black;
+  padding: 10px 0px 15px 10px;
+  font-size: 20px;
+  text-align: left;
+}
+.lower-card p {
+  color: rgb(32, 31, 31);
+  text-align: left;
+  padding-left: 10px;
+}
+.saara hr {
+  margin-top: 30px;
+  width: 60%;
+}
+.selfie {
+  width: 60%;
+
+  padding: 20px;
+}
+.selfie img {
+  width: 80px;
+}
+.btn {
+  margin-left: 10px;
+  cursor: pointer;
+  background-color: initial;
+  border: none;
+}
+.btn:hover {
+  color: white;
+}
+.icon {
+  width: 60%;
+  display: flex;
+}

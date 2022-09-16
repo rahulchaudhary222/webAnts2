@@ -1,0 +1,34 @@
+.Cardnew h1 {
+  padding-bottom: 30px;
+  font-size: 52px;
+  color: black;
+}
+.Cardnew {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.list-card {
+  display: flex;
+  box-shadow: 10px 10px 5px 12px grey;
+
+  margin: 30px;
+  width: 45%;
+}
+.card-parah p {
+  padding: 15px 5px 15px 5px;
+
+ color: #000;
+  font-size: 25px;
+}
+.card-heads {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.card-heads li {
+  color: red;
+  font-size: 20px;
+}
+.card-heads ul {
+  padding-left: 30px;
+}
